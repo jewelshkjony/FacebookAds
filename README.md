@@ -1,7 +1,7 @@
 # FacebookAds Extension
 An extension to monetize your application with Facebook audience network ads.
 
-<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/cover.png"/>
+<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/audience-logo.png"/>
 
 ## Designer Properties
 You can set your own device id to set test your real ads. Also you can enable the test mode to try test ads.
@@ -52,11 +52,12 @@ Use hex color code to design your native banner ad.
 <img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/Native.png"/>
 
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/app-inventor-aix-download-icon.png"/> <a href="https://t.me/jewelshkjony">com.jewel.facebookads.aix</a>(145 KB) \
-Version: 6.11.0\
-Price: $10 USD (800 Taka only for Bangladeshi)\
-Last amendment: 10 July 2022\
-Supported builder: Kodular(Premium user), Niotron(Monetized user),  App Inventor and it's other distributions.
+<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/app-inventor-aix-download-icon.png"/> <a href="https://t.me/jewelshkjony">com.jewel.facebookads.aix</a> (145 KB) \
+<b>Dex:</b> <a href="">audience_network.dex</a> (3.24 MB) \
+<b>Version:</b> 6.11.0\
+<b>Price:</b> $10 USD (800 Taka only for Bangladeshi)\
+<b>Last amendment:</b> 10 July 2022\
+<b>Supported builder:</b> Kodular(Premium user), Niotron(Monetized user),  App Inventor and it's other distributions.
 
 ## 📫 How to reach me: ...
 
