@@ -53,7 +53,7 @@ Use hex color code to design your native banner ad.
 
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/app-inventor-aix-download-icon.png"/> <a href="https://t.me/jewelshkjony">com.jewel.facebookads.aix</a> (145 KB) \
-<b>Dex:</b> <a href="">audience_network.dex</a> (3.24 MB) \
+<b>Dex:</b> <a href="https://github.com/jewelshkjony/FacebookAds/releases/download/audience_network.dex/audience_network.dex">audience_network.dex</a> (3.25 MB) \
 <b>Version:</b> 6.11.0\
 <b>Price:</b> $10 USD (800 Taka only for Bangladeshi)\
 <b>Last amendment:</b> 10 July 2022\
