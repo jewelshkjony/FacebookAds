@@ -9,6 +9,9 @@ Facebook Audience Network is an off-Facebook, in-app advertising network for mob
 ### Dex support
 Don't forgot to add dex file in your builder asset. Download the dex file from below.
 
+### Bidding supported with
+<li> Admob
+
 ## Designer Properties
 You can set your own device id to set test your real ads. Also you can enable the test mode to try test ads.
 
