@@ -3,6 +3,12 @@ An extension to monetize your application with Facebook audience network ads.
 
 <img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/audience-logo.png"/>
 
+## What is Facebook Audience Network?
+Facebook Audience Network is an off-Facebook, in-app advertising network for mobile apps. Advertisers can serve up their ads to customers who are using mobile sites and apps other than Facebook, extending their reach beyond the platform while still getting to use Facebook's exceptionally powerful ad system.
+
+### Dex support
+Don't forgot to add dex file in your builder asset. Download the dex file from below.
+
 ## Designer Properties
 You can set your own device id to set test your real ads. Also you can enable the test mode to try test ads.
 
