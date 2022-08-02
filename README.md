@@ -12,25 +12,21 @@ Don't forgot to add dex file in your builder asset. Download the dex file from b
 ### Bidding supported with
 <li> Admob
 
-## Designer Properties
-You can set your own device id to set test your real ads. Also you can enable the test mode to try test ads.
+## Extension Properties
+You can set your own device id to set test your real ads. Also you can enable the test mode to try test ads. Also you can set your device id from block section.
 
-<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/image.png"/>
-
-## Block Properties
-Also you can set your device id from block section.
-
-<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/Property.png"/>
+<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/property-1.png"/>
+<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/property-2.png"/>
 
 ## Device Id
 You can get your device id using this function.
 
-<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/Device.png"/>
+<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/device-id.png"/>
 
 # Initialize
 Initialize the audience network sdk before load any ads.
 
-<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/Initialize.png"/>
+<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/sdk-init.png"/>
 
 <li> isSuccess --> It's return boolean result.
 <li> status --> It's return string message.
