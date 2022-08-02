@@ -61,41 +61,25 @@ Use hex color code to design your native banner ad.
 <img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/Native.png"/>
 
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/app-inventor-aix-download-icon.png"/> <a href="https://t.me/jewelshkjony">com.jewel.facebookads.aix</a> (145 KB) \
-<b>Dex:</b> <a href="https://github.com/jewelshkjony/FacebookAds/releases/download/audience_network.dex/audience_network.dex">audience_network.dex</a> (3.25 MB) \
-<b>Version:</b> 6.11.0\
-<b>Price:</b> $10 USD (800 Taka only for Bangladeshi)\
-<b>Last amendment:</b> 10 July 2022\
-<b>Supported builder:</b> Kodular(Premium user), Niotron(Monetized user),  App Inventor and it's other distributions.
+<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.pangleads.aix</a>(286 KB) \
+<b>SDK Version:</b> 6.11.0\
+<b>Price:</b> 12 USD\
+<b>Last amendment:</b> 02 August 2022\
+<b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
-## 📫 How to reach me: ...
+## 📫 How to reach me -
 
-<a href="https://t.me/jewelshkjony">Telegram</a> - <a href="https://wa.me/8801775668913">WhatsApp</a> - <a href="https://fb.com/jewelshkjony">Facebook</a> - <a href="https://m.me/jewelshkjony">Messenger</a>
+<a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://m.me/jewelshkjony">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony">Youtube</a>
 
-## Payment Gateway
-Use this phone number to pay me from Bangladesh.
+## Global Payment Method
+<a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/">TansferWise (Wise)</a> | <a href="http://share.payoneer.com/nav/kJkLyppKLt-FTUg-P9xnUd76yT4iWQiym2irI42PLM7uQWXuVsWvSOABMvVykU5hbFiDGSULXNdI3-yRM7JVhA2">Payoneer</a>
+
+### Bangladeshi Payment Method
+Bangladeshi user can send money using <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a>.
+Use this phone number to send money.
 
 ````java
 +8801775668913
 ````
-Bangladeshi user can send money using bkash, Nagad and Rocket. Remember accounts are personal.
 
-## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-    Copyright (c) 2022 Jewel Shikder Jony
-    Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
-    in the Software without restriction, including without limitation the rights
-    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-    copies of the Software, and to permit persons to whom the Software is
-    furnished to do so, subject to the following conditions:
-    
-    The above copyright notice and this permission notice shall be included in all
-    copies or substantial portions of the Software.
-    
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
+Remember accounts are personal, so you've to use send money option.
