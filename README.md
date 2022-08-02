@@ -30,31 +30,40 @@ Initialize the audience network sdk before load any ads.
 
 <li> isSuccess --> It's return boolean result.
 <li> status --> It's return string message.
+  
+## Add Test Devices
+Set list of string.
+  
+<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/add-test-devices.png"/>
+  
+## Clear Test Devices
+  
+<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/clear-test-devices.png"/>
 
 ## Banner Ad
 Set layout to show banner and set banner size from banner ad properties.
 
-<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/Banner.png"/>
+<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/banner-blocks.png"/>
 
 ## Interstitial Ad
 Using this blocks you can load and show interstitial ads.
 
-<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/Interstitial.png"/>
+<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/interstitial-blocks.png"/>
 
 ## Reward Ad
 To load and show rewad ad, use this blocks.
 
-<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/Reward.png"/>
+<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/rewarded-blocks.png"/>
 
 ## Native Banner Ad
 Set adType from native banner properties. Use hex color code to design your native banner ad.
 
-<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/NativeBanner.png"/>
+<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/native-banner-blocks.png"/>
 
 ## Native Ad
 Use hex color code to design your native banner ad. 
 
-<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/Native.png"/>
+<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/native-blocks.png"/>
 
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.pangleads.aix</a>(286 KB) \
