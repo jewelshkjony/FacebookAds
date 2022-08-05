@@ -66,7 +66,7 @@ Use hex color code to design your native banner ad.
 <img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/native-blocks.png"/>
 
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.pangleads.aix</a>(286 KB) \
+<img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.facebookads.aix</a>(286 KB) \
 <b>DEX:</b> <a href="https://github.com/jewelshkjony/FacebookAds/releases/download/audience_network.dex/audience_network.dex">audience_network.dex</a> (3.25 MB)\
 <b>SDK Version:</b> 6.11.0\
 <b>Price:</b> 12 USD\
