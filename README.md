@@ -68,23 +68,16 @@ Use hex color code to design your native banner ad.
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.facebookads.aix</a>(286 KB) \
 <b>DEX:</b> <a href="https://github.com/jewelshkjony/FacebookAds/releases/download/audience_network.dex/audience_network.dex">audience_network.dex</a> (3.25 MB)\
-<b>SDK Version:</b> 6.11.0\
-<b>Last amendment:</b> 24 August 2022\
+<b>SDK Version:</b> 6.12.0\
+<b>Last amendment:</b> 16 October 2022\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
-## 📫 How to reach me -
+## 📫 How to reach me ↓
 
-<a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://m.me/jewelshkjony">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony">Youtube</a>
+<a href="https://t.me/jewelshkjony" target="_blank">Telegram</a> | <a href="https://wa.me/8801775668913" target="_blank">WhatsApp</a> | <a href="https://fb.com/jewelshkjony" target="_blank">Facebook</a> | <a href="https://m.me/jewelshkjony" target="_blank">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony?sub_confirmation=1" target="_blank">Youtube</a>
 
-## Global Payment Method
-<a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/">TansferWise (Wise)</a> | <a href="http://share.payoneer.com/nav/kJkLyppKLt-FTUg-P9xnUd76yT4iWQiym2irI42PLM7uQWXuVsWvSOABMvVykU5hbFiDGSULXNdI3-yRM7JVhA2">Payoneer</a>
+## 💲 Payment Methods ↓
 
-### Bangladeshi Payment Method
-Bangladeshi user can send money using <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a>.
-Use this phone number to send money.
+❏ <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV" target="_blank">Binance</a> | <a href="https://www.skrill.com/en/">Skrill</a> | <a href="https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=20" target="_blank">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.pyypl">Pyypl</a> | <a href="https://www.xoom.com/bangladesh/send-money" target="_blank">Xoom</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a>
 
-````java
-+8801775668913
-````
-
-Remember accounts are personal, so you've to use send money option.
+❏ <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1" target="_blank">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a> (Bangladesh)
