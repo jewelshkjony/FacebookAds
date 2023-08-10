@@ -67,10 +67,11 @@ Use hex color code to design your native banner ad.
 
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/FacebookAds/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.facebookads.aix</a>(216 KB) \
-<b>DEX:</b> <a href="https://github.com/jewelshkjony/FacebookAds/releases/download/audience_network.dex/audience_network.dex">audience_network.dex</a> (3.04 MB)\
-<b>SDK Version:</b> 6.14.0\
-<b>Last amendment:</b> 01 May 2023\
-<b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
+📤 <b>DEX:</b> <a href="https://github.com/jewelshkjony/FacebookAds/releases/download/audience_network.dex/audience_network.dex">audience_network.dex</a> (3.04 MB)\
+⚙️ <b>SDK Version:</b> 6.15.0\
+🌎 <b>Last amendment:</b> 10 August 2023\
+⚖️ <b>License:</b> <a href="https://github.com/jewelshkjony/Extensions/blob/main/LICENSE.md#terms-and-conditions-for-the-extension">Terms & Conditions</a>\
+🤝 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me ↓
 
